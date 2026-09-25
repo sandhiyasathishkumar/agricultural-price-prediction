@@ -18,7 +18,7 @@ st.set_page_config(
 # LOAD DATASET
 # ============================================================
 
-file_path = r"E:\ML ASSIGNMENT 2\Agricultural_Price_Prediction.csv"
+file_path = "Agricultural_Price_Prediction.csv.csv"
 
 df = pd.read_csv(file_path)
 
